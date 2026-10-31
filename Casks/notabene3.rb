@@ -3,11 +3,11 @@ cask "notabene3" do
 
   on_arm do
     url "https://notabene3.com/downloads/notabene3-#{version}-macos-arm64.dmg"
-    sha256 "d479e3f0d0e7c0de1da3bc78d3dd1a680348f049"
+    sha256 "af8f29088fc7a28ffd715a404e10cc0292d9943aa0346fb3d92b8302856b0dc3"
   end
   on_intel do
     url "https://notabene3.com/downloads/notabene3-#{version}-macos-x86_64.dmg"
-    sha256 "f344b022b8fad0e2ea8efb33822986224e0cb8fe"
+    sha256 "f8d7197429082312ae313d289132caca4dd45d6442628f25372be58f577b64cf"
   end
 
   name "Notabene3"
