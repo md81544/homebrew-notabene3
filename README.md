@@ -1,4 +1,4 @@
-# Md81544 Notabene3
+# Notabene3
 
 ## How do I install these formulae?
 
